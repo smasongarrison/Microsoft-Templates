@@ -1,19 +1,16 @@
-LiveContent/*
-
-Welcome to Word.dotx
-Welcome to PowerPoint.potx
-Welcome to Excel.xltx
-PivotTable tutorial.xltx
-
+*.db
 *.onetoc2
-Welcome to Word(6).dotx
-Welcome to Excel(2).xltx
-Welcome to PowerPoint(2).potx
-Welcome to Word(2).dotx
-Welcome to Word(3).dotx
-Welcome to Word(4).dotx
 Formula tutorial(2).xltx
 Formula tutorial.xltx
 Get more out of PivotTables.xltx
-*.db
+PivotTable tutorial.xltx
+Welcome to Excel(2).xltx
+Welcome to Excel.xltx
+Welcome to PowerPoint(2).potx
+Welcome to PowerPoint.potx
+Welcome to Word(2).dotx
+Welcome to Word(3).dotx
+Welcome to Word(4).dotx
+Welcome to Word(6).dotx
 Welcome to Word.docx
+Welcome to Word.dotx
